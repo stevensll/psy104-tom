@@ -29,7 +29,7 @@ Each table entry shows `correct responses / tasks passed`.
 
 - **Raw match:** The response must match the expected word exactly.
 - **OSF method:** This follows the scoring method from the original study.
-- **AI review:** An AI checks whether the response has the correct meaning.
+- **AI review:** An AI (codex 5.6 medium) checks whether the response has the correct meaning.
 
 Codex Sol medium had the highest AI-reviewed response score. Codex Sol medium
 and Codex Sol high tied for the highest task score.
